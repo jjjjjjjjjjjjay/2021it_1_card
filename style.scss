@@ -39,6 +39,22 @@ body {
         margin: 0 auto;
     }
 
+    .btn3{
+        position: relative;
+        top: 10px;
+    }
+    #win{
+        .btn4{
+            position: relative;
+            top: 3%;
+        }
+    }
+    #lose{
+        .btn4{
+            position: relative;
+            top: 50%;
+        }
+    }
     .btn4{
         position: relative;
         top: 50%;
